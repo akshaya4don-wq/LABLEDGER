@@ -1,0 +1,7 @@
+# Compiled program
+labledger
+labledger.exe
+*.o
+
+# Keep the data folder; ignore local runtime records if desired
+# data/*.txt
